@@ -315,4 +315,4 @@ public class Main {
 ```
 ## Итог:
 
-![Alt text](image.png)
+![Alt text](https://github.com/alisasuslova/Diplom_1/blob/master/%D1%80%D0%B5%D0%B7.JPG)
